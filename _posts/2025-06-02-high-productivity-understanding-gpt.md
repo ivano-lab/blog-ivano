@@ -11,7 +11,7 @@ I made great progress on my educational AI project by implementing a basic pipel
 
 Every step is a victory toward a deep understanding of Transformers and language models. Excited for the next chapters of this journey!
 
-[github.com/seu-usuario/seu-projeto](https://github.com/seu-usuario/seu-projeto)
+[Mini GPT Zero](https://github.com/ivano-lab/mini-gpt-zero)
 
 Feel free to star, fork, or contribute!
 
